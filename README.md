@@ -5,9 +5,9 @@
         
 ### **Module function：**
 
-     Font: Fonts stored in the folder settings
-     Images: the game is stored inside the picture
-     sound：The folder is full of game music
+     Font: Fonts stored in the folder settings;
+     Images: the game is stored inside the picture;
+     sound：The folder is full of game music;
      Bullet.py: defines a bullet class that defines a model of ordinary bullets and super bullets;
      Enemy.py: defines the enemy type, including small enemy, medium enemy and boss machine three models and attributes such as the survival state, moving speed, hit the property and move rules, which speed is divided into high and low three speed;
      Myplane.py: the definition of their own aircraft class, the definition of the aircraft model and some properties such as survival, moving speed, invincible properties and moving rules;
